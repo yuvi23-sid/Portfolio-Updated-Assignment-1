@@ -1,0 +1,14 @@
+.card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 5px;
+  }
+  
+  .cardData {
+    display: inline-block;
+  }
+  
+  .card p {
+    margin: 5px 0;
+  }
+  
